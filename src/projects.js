@@ -1,9 +1,9 @@
 const projects = [
   {
     id: 1,
-    name: "reviews",
+    name: "Birthday reminder",
     desc: "Show slider automatically in 3 seconds.",
-    image: "/images/07-reviews-resize.gif",
+    image: "/images/09-color-generator.gif",
     demo_link:
       "https://github.com/christy313/react15/blob/main/03-reviews/src/data.js",
     code_link:
@@ -11,9 +11,9 @@ const projects = [
   },
   {
     id: 2,
-    name: "reviews",
+    name: "Tours",
     desc: "Show slider automatically in 3 seconds.",
-    image: "/images/07-reviews-resize.gif",
+    image: "/images/07-reviews.gif",
     demo_link:
       "https://github.com/christy313/react15/blob/main/03-reviews/src/data.js",
     code_link:
@@ -21,9 +21,9 @@ const projects = [
   },
   {
     id: 3,
-    name: "reviews",
+    name: "Reviews",
     desc: "Show slider automatically in 3 seconds.",
-    image: "/images/07-reviews-resize.gif",
+    image: "/images/07-reviews.gif",
     demo_link:
       "https://github.com/christy313/react15/blob/main/03-reviews/src/data.js",
     code_link:
