@@ -13,7 +13,7 @@ const projects = [
     name: "Tours",
     desc: "Fetch tour API and remove button",
     image: "/images/02-tours.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project02/",
     codeLink: "https://github.com/christy313/react15/tree/main/02-tours",
   },
   {
@@ -21,7 +21,7 @@ const projects = [
     name: "Reviews",
     desc: "Get a random reviews",
     image: "/images/03-reviews.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project03/",
     codeLink: "https://github.com/christy313/react15/tree/main/03-reviews",
   },
   {
