@@ -6,7 +6,7 @@ const App = () => {
         with doing plenty projects.
       </h1>
       <div className="tc pa3 ma2 bw5 br4 shadow-5 dib">
-        <img src="/07-reviews-resize.gif" alt="" />
+        <img src="/images/07-reviews-resize.gif" alt="" />
         <div>
           <h3>Reviews</h3>
           <h5>Show slider automatically in 3 seconds.</h5>
