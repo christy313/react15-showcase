@@ -1,8 +1,8 @@
 ## Summary
 
-[Live Demo]()
+React projects showcase page: Projects are the best way to dive into the skills.
 
-![](./image/react01-birthday-today.gif)
+[Live Demo]()
 
 ## File structure
 
@@ -12,11 +12,14 @@
 ├── package-lock.json
 ├── package.json
 └── src
-    ├── App.js
-    ├── List.js
-    ├── data.js
+    ├── components
+    │   ├── Card.js
+    │   └── CardList.js
+    ├── container
+    │   └── App.js
     ├── index.css
-    └── index.js
+    ├── index.js
+    └── projects.js
 ```
 
 ## Available Scripts
