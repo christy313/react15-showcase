@@ -1,4 +1,4 @@
-import "./index.css";
+import "../index.css";
 
 const Card = ({ name, image, desc, demoLink, codeLink }) => (
   <div className="card tc pa3 ma2 bw5 br4 shadow-5 dib">

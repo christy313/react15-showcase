@@ -1,5 +1,5 @@
-import "./index.css";
-import CardList from "./CardList";
+import "../index.css";
+import CardList from "../components/CardList";
 
 const App = () => (
   <div className="tc">

@@ -1,6 +1,6 @@
-import projects from "./projects";
+import projects from "../projects";
 import Card from "./Card";
-import "./index.css";
+import "../index.css";
 
 const CardList = () => (
   <div className="card-list">
