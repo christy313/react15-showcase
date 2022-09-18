@@ -29,7 +29,7 @@ const projects = [
     name: "Accordion",
     desc: "Toggle paragraph",
     image: "/images/04-accordion.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project04/",
     codeLink: "https://github.com/christy313/react15/tree/main/04-accordion",
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     name: "Menu",
     desc: "Render buttons dynamically and filter items",
     image: "/images/05-menu.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project05",
     codeLink: "https://github.com/christy313/react15/tree/main/05-menu",
   },
   {
@@ -45,7 +45,7 @@ const projects = [
     name: "Tabs",
     desc: "Render dynamic buttons and sync with data.",
     image: "/images/06-tabs.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project06/",
     codeLink: "https://github.com/christy313/react15/tree/main/06-tabs",
   },
   {
@@ -53,7 +53,7 @@ const projects = [
     name: "Slider",
     desc: "Show slider automatically in 3 seconds",
     image: "/images/07-reviews.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project07",
     codeLink: "https://github.com/christy313/react15/tree/main/07-slider",
   },
   {
@@ -61,7 +61,7 @@ const projects = [
     name: "Lorem Ipsum",
     desc: "Generate lorem ipsum paragraphs",
     image: "/images/08-lorem-ipsum.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project08",
     codeLink: "https://github.com/christy313/react15/tree/main/08-lorem-ipsum",
   },
   {
@@ -69,7 +69,7 @@ const projects = [
     name: "Color Generator",
     desc: "Enter hex color to generate tints and shades.",
     image: "/images/09-color-generator.gif",
-    demoLink: "",
+    demoLink: "https://christy313.github.io/react15-project09",
     codeLink:
       "https://github.com/christy313/react15/tree/main/09-color-generator",
   },
