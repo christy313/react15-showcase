@@ -14,12 +14,34 @@ code {
     monospace;
 }
 
-h1 {
-  font-weight: 500;
+.intro {
+  padding: 2rem;
 }
 
 h3,
 h5,
-a {
+a,
+p {
   font-weight: bolder;
+}
+
+.cover-image {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  gap: 1rem;
+  min-height: 30vh;
+  align-items: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+}
+
+.card {
+  background-color: white;
+}
+
+.card-list {
+  background-color: #e2e8f0;
+  padding: 5rem 0;
 }
