@@ -1,3 +1,4 @@
+import "./index.css";
 import CardList from "./CardList";
 
 const App = () => (
