@@ -4,6 +4,8 @@ React projects showcase page
 
 Projects are the best way to dive into the skills.
 
+![](./public/images/react15-showcase.gif)
+
 [Live Demo](https://christy313.github.io/react15-showcase)
 
 ## File structure
