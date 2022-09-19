@@ -6,21 +6,18 @@ const Card = ({ name, image, desc, demoLink, codeLink }) => (
     <h3>{name}</h3>
     <h5>{desc}</h5>
     <a
+      className="link"
       target="_blank"
       rel="noopener noreferrer"
       href={demoLink}
-      style={{ textDecoration: "none", padding: "10px" }}
     >
       demo
     </a>
     <a
+      className="link"
       target="_blank"
       rel="noopener noreferrer"
       href={codeLink}
-      style={{
-        textDecoration: "none",
-        padding: "10px",
-      }}
     >
       code
     </a>
