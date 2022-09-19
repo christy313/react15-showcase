@@ -4,7 +4,7 @@ const projects = [
     name: "Birthday reminder",
     desc: "Basic hooks - Clear all with one click",
     image:
-      "https://christy313.github.io/react15-showcase/public/images/01-birthday-today.gif",
+      "https://christy313.github.io/react15-showcase/images/01-birthday-today.gif",
     demoLink: "https://christy313.github.io/react15-project01/",
     codeLink:
       "https://github.com/christy313/react15/tree/main/01-birthday-reminder",
