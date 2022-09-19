@@ -46,7 +46,7 @@ const projects = [
   {
     id: 6,
     name: "Tabs",
-    desc: "Render dynamic buttons and sync with data.",
+    desc: "Render dynamic buttons and sync with data",
     image: "https://christy313.github.io/react15-showcase/images/06-tabs.gif",
     demoLink: "https://christy313.github.io/react15-project06/",
     codeLink: "https://github.com/christy313/react15/tree/main/06-tabs",
@@ -72,7 +72,7 @@ const projects = [
   {
     id: 9,
     name: "Color Generator",
-    desc: "Enter hex color to generate tints and shades.",
+    desc: "Enter hex color to generate tints and shades",
     image:
       "https://christy313.github.io/react15-showcase/images/09-color-generator.gif",
     demoLink: "https://christy313.github.io/react15-project09",
