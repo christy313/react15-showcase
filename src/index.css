@@ -7,6 +7,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e2e8f0;
+}
+
+main {
+  max-width: 1240px;
+  margin: 0 auto;
 }
 
 code {
@@ -42,6 +48,5 @@ p {
 }
 
 .card-list {
-  background-color: #e2e8f0;
   padding: 5rem 0;
 }
