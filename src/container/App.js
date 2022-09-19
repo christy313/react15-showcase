@@ -1,6 +1,6 @@
 import { FaReact } from "react-icons/fa";
-import "./index.css";
-import CardList from "./CardList";
+import "../index.css";
+import CardList from "../components/CardList";
 
 const App = () => (
   <main className="tc">
