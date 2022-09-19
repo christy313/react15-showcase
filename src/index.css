@@ -31,9 +31,9 @@ p {
   font-weight: bolder;
 }
 
-.cover-image {
+.cover {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
   place-items: center;
   gap: 1rem;
   min-height: 30vh;
@@ -41,6 +41,11 @@ p {
   justify-content: center;
   -webkit-box-align: center;
   -webkit-box-pack: center;
+}
+
+.react-icon {
+  font-size: 120px;
+  color: #3cd6bf;
 }
 
 .card {
