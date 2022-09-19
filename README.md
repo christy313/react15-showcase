@@ -1,6 +1,8 @@
 ## Summary
 
-React projects showcase page: Projects are the best way to dive into the skills.
+React projects showcase page
+
+Projects are the best way to dive into the skills.
 
 [Live Demo](https://christy313.github.io/react15-showcase)
 
@@ -8,18 +10,16 @@ React projects showcase page: Projects are the best way to dive into the skills.
 
 ```
 .
-├── README.md
-├── package-lock.json
-├── package.json
 └── src
     ├── components
     │   ├── Card.js
     │   └── CardList.js
     ├── container
     │   └── App.js
+    ├── data
+    │   └── projects.js
     ├── index.css
-    ├── index.js
-    └── projects.js
+    └── index.js
 ```
 
 ## Available Scripts
