@@ -79,6 +79,15 @@ const projects = [
     codeLink:
       "https://github.com/christy313/react15/tree/main/09-color-generator",
   },
+  {
+    id: 10,
+    name: "Grocery Bud",
+    desc: "CRUD grocery list",
+    image:
+      "https://christy313.github.io/react15-showcase/images/10-grocery-bud.gif",
+    demoLink: "https://christy313.github.io/react15-project10",
+    codeLink: "https://github.com/christy313/react15/tree/main/10-grocery-bud",
+  },
 ];
 
 export default projects;
