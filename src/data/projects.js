@@ -88,6 +88,14 @@ const projects = [
     demoLink: "https://christy313.github.io/react15-project10",
     codeLink: "https://github.com/christy313/react15/tree/main/10-grocery-bud",
   },
+  {
+    id: 11,
+    name: "Navbar",
+    desc: "Memorize the height with useRef() for links",
+    image: "https://christy313.github.io/react15-showcase/images/11-navbar.gif",
+    demoLink: "https://christy313.github.io/react15-project11",
+    codeLink: "https://github.com/christy313/react15/tree/main/11-navbar",
+  },
 ];
 
 export default projects;
