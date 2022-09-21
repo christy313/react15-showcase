@@ -99,7 +99,7 @@ const projects = [
   {
     id: 12,
     name: "Sidebar & Modal",
-    desc: "useContext() to control open/close modal and sidebar",
+    desc: "useContext() to open/close modal and sidebar",
     image:
       "https://christy313.github.io/react15-showcase/images/12-sidebar-modal.gif",
     demoLink: "https://christy313.github.io/react15-project12",
