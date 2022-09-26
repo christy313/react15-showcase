@@ -106,6 +106,16 @@ const projects = [
     codeLink:
       "https://github.com/christy313/react15/tree/main/12-sidebar-modal",
   },
+  {
+    id: 13,
+    name: "Stripe submenus",
+    desc: "hover the link to show sub-links",
+    image:
+      "https://christy313.github.io/react15-showcase/images/13-stripe-submenus.webp",
+    demoLink: "https://christy313.github.io/react15-project13",
+    codeLink:
+      "https://github.com/christy313/react15/tree/main/13-stripe-submenus",
+  },
 ];
 
 export default projects;
