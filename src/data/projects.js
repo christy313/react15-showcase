@@ -109,7 +109,7 @@ const projects = [
   {
     id: 13,
     name: "Stripe submenus",
-    desc: "hover the link to show sub-links",
+    desc: "Hover the link to show sub-links",
     image:
       "https://christy313.github.io/react15-showcase/images/13-stripe-submenus.webp",
     demoLink: "https://christy313.github.io/react15-project13",
