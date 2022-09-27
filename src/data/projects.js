@@ -116,6 +116,14 @@ const projects = [
     codeLink:
       "https://github.com/christy313/react15/tree/main/13-stripe-submenus",
   },
+  {
+    id: 14,
+    name: "Shopping Cart",
+    desc: "Shopping cart with useReducer",
+    image: "https://christy313.github.io/react15-showcase/images/14-cart.webp",
+    demoLink: "https://christy313.github.io/react15-project14",
+    codeLink: "https://github.com/christy313/react15/tree/main/14-cart",
+  },
 ];
 
 export default projects;
