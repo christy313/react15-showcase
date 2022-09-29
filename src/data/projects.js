@@ -124,6 +124,15 @@ const projects = [
     demoLink: "https://christy313.github.io/react15-project14",
     codeLink: "https://github.com/christy313/react15/tree/main/14-cart",
   },
+  {
+    id: 15,
+    name: "Search Cocktails",
+    desc: "Cocktail search with React router.",
+    image:
+      "https://christy313.github.io/react15-showcase/images/15-cocktails.webp",
+    demoLink: "https://christy313.github.io/react15-project15",
+    codeLink: "https://github.com/christy313/react15/tree/main/15-cocktails",
+  },
 ];
 
 export default projects;
